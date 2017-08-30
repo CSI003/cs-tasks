@@ -1,5 +1,9 @@
 /* Check out different colors here: https://www.materialpalette.com/ */
 
+div {
+	display: block;
+}
+
 .box {
   height: 100%;
   min-width: 100px;
