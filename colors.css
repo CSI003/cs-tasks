@@ -3,12 +3,8 @@
 .box {
   	height: 100%;
   	min-width: 100px;	
-	float: left;
-}
-
-.white {
-	  background-color: #fff;
-	  min-width:25px;
+	height: 100vh;
+	display: inline;
 }
 
 .light_green {
