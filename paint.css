@@ -4,6 +4,10 @@ body {
 	background-color: grey;
 }
 
+div {
+	float: left
+}
+
 .oneblock {
  background-color:yellow; 
  width: 50%;
