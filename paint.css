@@ -11,7 +11,7 @@ div {
 .oneblock {
 	background-color: #b27c66; 
 	width: 50vw;
-	min-height: 30%;
+	height: 30%;
 	display: inline-block;
 	font-family: Cambria;
 	font-size: 30px;
@@ -20,7 +20,7 @@ div {
 .twoblock {
 	background-color: #857e61; 
 	width: 30vw;
-	min-height: 30%;
+	height: 30%;
  	display: inline-block;
  	font-family: Permanent Marker;
  	font-size: 30px;
@@ -30,7 +30,7 @@ div {
 .threeblock {
 	background-color: #b49a67; 
 	width: 20vw;
-	min-height: 30%;
+	height: 30%;
 	display: inline-block;
 	font-family: Cambria;
 	font-size: 30px;
