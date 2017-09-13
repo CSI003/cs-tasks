@@ -18,7 +18,7 @@ div {
 .twoblock {
 	background-color: #857e61; 
 	width: 30vw;
-	height: 30vh;
+	height: 30%;
  	display: inline-block;
  	font-family: Permanent Marker;
  	font-size: 30px;
@@ -38,7 +38,7 @@ div {
 .fourblock {
 	background-color: #967d69; 
 	width: 50vw;
-	height: 70vh;
+	height: 70%;
 	display: inline-block;
 	font-family: Georgia;
 	font-size: 30px;
@@ -47,7 +47,7 @@ div {
 .fiveblock {
 	background-color: #644536; 
 	width: 50vw;
-	height: 70vh;
+	height: 70%;
 	display: inline-block;
 	font-family: Georgia;
 	font-size: 30px;
