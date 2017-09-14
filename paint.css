@@ -4,10 +4,6 @@ body {
 	width: 100%;
 }
 
-div {
-	float: left;
-}
-
 .oneblock {
 	background-color: #b27c66; 
 	width: 50vw;
@@ -15,6 +11,7 @@ div {
 	display: inline-block;
 	font-family: Cambria;
 	font-size: 30px;
+	float: left;
 }
 
 .twoblock {
@@ -25,6 +22,7 @@ div {
  	font-family: Permanent Marker;
  	font-size: 30px;
  	color: white;
+	float: left;
 }
 
 .threeblock {
@@ -35,6 +33,7 @@ div {
 	font-family: Cambria;
 	font-size: 30px;
 	color: white;
+	float: right;
 }
 
 .fourblock {
@@ -44,6 +43,7 @@ div {
 	display: inline-block;
 	font-family: Georgia;
 	font-size: 30px;
+	float: left;
 }
 
 .fiveblock {
@@ -54,6 +54,7 @@ div {
 	font-family: Georgia;
 	font-size: 30px;
 	color: white;
+	float: right;
 }
 
 
