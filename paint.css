@@ -19,7 +19,7 @@ body {
 	width: 30%;
 	height: 30%;
  	display: inline-block;
- 	font-family: Permanent Marker;
+ 	font-family: 'Permanent Marker';
  	font-size: 30px;
  	color: white;
 	float: left;
@@ -65,4 +65,18 @@ p {
 
 .bottom {
  	padding-top: 250px;
+}
+
+/* permanent-marker-regular - latin */
+@font-face {
+  font-family: 'Permanent Marker';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/permanent-marker-v6-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Permanent Marker Regular'), local('PermanentMarker-Regular'),
+       url('../fonts/permanent-marker-v6-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/permanent-marker-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/permanent-marker-v6-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/permanent-marker-v6-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/permanent-marker-v6-latin-regular.svg#PermanentMarker') format('svg'); /* Legacy iOS */
 }
