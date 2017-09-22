@@ -3,7 +3,7 @@
   font-family: 'Permanent Marker';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/permanent-marker-v6-latin-regular.eot'); /* IE9 Compat Modes */
+  src: url('permanent-marker-v6-latin-regular.eot'); /* IE9 Compat Modes */
   src: local('Permanent Marker Regular'), local('PermanentMarker-Regular'),
        url('permanent-marker-v6-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('permanent-marker-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
@@ -11,6 +11,9 @@
        url('permanent-marker-v6-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('permanent-marker-v6-latin-regular.svg#PermanentMarker') format('svg'); /* Legacy iOS */
 }
+/* Link to Google generated fonts: https://google-webfonts-helper.herokuapp.com/fonts | If your desired font from Google is not on the list, then your font may already be html compatible and/or it is a more recent font addition. */
+/* Remove "../fonts/" element and make sure to upload the font files provided by the website into your repository! */
+
 
 /* painting */
 body {
